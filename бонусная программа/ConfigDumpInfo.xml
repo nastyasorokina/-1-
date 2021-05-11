@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.НакопленныеБаллыСотрудника" id="5e4fc1a1-2fd6-43c6-a3c4-6ddc1b6d95cf" configVersion="05248b341c5d2a45a38f8bc2fb0e999f00000000">
+			<Metadata name="AccumulationRegister.НакопленныеБаллыСотрудника.Dimension.Сотрудник" id="44c60f76-3f0a-4b41-8a11-396f3a3a5850"/>
+			<Metadata name="AccumulationRegister.НакопленныеБаллыСотрудника.Resource.КоличествоБаллов" id="bd6b3392-1baf-4cd7-bdd1-67cd590977d4"/>
+		</Metadata>
+		<Metadata name="Catalog.Бонусы" id="cb2ec942-3462-4119-916e-9ce4b828a342" configVersion="66b162b9bd439a44931acd621134f9d000000000">
+			<Metadata name="Catalog.Бонусы.Attribute.Стоимость" id="dfbbe5c9-e875-406e-8243-4fe871868869"/>
+		</Metadata>
+		<Metadata name="Catalog.СотрудникиПредприятия" id="a4e90600-479f-43e4-8b1a-dd494e39ab3d" configVersion="110b0413ce078a41a8e484a83798ea3500000000">
+			<Metadata name="Catalog.СотрудникиПредприятия.Attribute.ДатаОформленияНаРаботу" id="0d498f6b-9800-4e8c-ac39-73694120da41"/>
+			<Metadata name="Catalog.СотрудникиПредприятия.Attribute.Должность" id="8430fd7f-9cae-4d5f-afca-28e0c5ff1306"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="77976d1a-a566-4a67-9659-6c4dde0e0250" configVersion="a972cf6243696340ad38bce177102f1900000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="d6cd26a1-00bc-44e5-9a61-b9f994095ebb.6" configVersion="0e3f0cd76be7f9448a688d802e624a4500000000"/>
+		<Metadata name="Configuration.Конфигурация.SessionModule" id="d6cd26a1-00bc-44e5-9a61-b9f994095ebb.7" configVersion="6b7c5d9f09623b41bad505159194ab5400000000"/>
+		<Metadata name="Document.ЗавершениеБонусовСотрудника" id="1a801451-1477-4c26-ba9f-1d75e07a9706" configVersion="81eae86522642142abba611c4a38a9c500000000">
+			<Metadata name="Document.ЗавершениеБонусовСотрудника.Attribute.Бонус" id="4bd130c1-de01-48a3-b1da-ba72919eba23"/>
+			<Metadata name="Document.ЗавершениеБонусовСотрудника.Attribute.Сотрудник" id="ebb838c1-b95b-4149-9196-5c00d3d21659"/>
+		</Metadata>
+		<Metadata name="Document.ЗавершениеБонусовСотрудника.ObjectModule" id="1a801451-1477-4c26-ba9f-1d75e07a9706.0" configVersion="e7749b2903b2ec45b9fc7a30d21b48e800000000"/>
+		<Metadata name="Document.НазначениеБонусовСотруднику" id="fd033a88-5795-4da5-8eb9-7e14181aa56c" configVersion="d5f7cc1280ed0841a648f98416a28b4300000000">
+			<Metadata name="Document.НазначениеБонусовСотруднику.Attribute.Сотрудник" id="7c546551-7c27-4bdf-b29d-85cd80c84308"/>
+			<Metadata name="Document.НазначениеБонусовСотруднику.Attribute.Бонус" id="a5a27ba5-e1e0-4727-9191-8a59c23f1574"/>
+		</Metadata>
+		<Metadata name="Document.НазначениеБонусовСотруднику.ObjectModule" id="fd033a88-5795-4da5-8eb9-7e14181aa56c.0" configVersion="44205156d1258747bfcaae4ea4f0889400000000"/>
+		<Metadata name="Document.НачислениеБалловСотруднику" id="7e072b11-3e55-4f0d-a823-b8d7e8bdc5c6" configVersion="86030cb28f1c204eaee6dc4f029233ea00000000">
+			<Metadata name="Document.НачислениеБалловСотруднику.Attribute.КоличествоБаллов" id="09a32442-3ffd-40e6-b946-07eb22d19076"/>
+			<Metadata name="Document.НачислениеБалловСотруднику.Attribute.Сотрудник" id="33389832-f6ce-454e-9e99-ad34c7adf19e"/>
+		</Metadata>
+		<Metadata name="Document.НачислениеБалловСотруднику.Form.ФормаДокумента" id="0f5e9add-e679-4cae-9ff6-42acbf98a1a0" configVersion="61818d1a01125146b953b95d7bd5171600000000"/>
+		<Metadata name="Document.НачислениеБалловСотруднику.Form.ФормаДокумента.Form" id="0f5e9add-e679-4cae-9ff6-42acbf98a1a0.0" configVersion="90dc2a5a8a848e449d4819d184a1b0c200000000"/>
+		<Metadata name="Document.НачислениеБалловСотруднику.ObjectModule" id="7e072b11-3e55-4f0d-a823-b8d7e8bdc5c6.0" configVersion="3007a018c30e0b4faf9174d052522de400000000"/>
+		<Metadata name="Document.ПотреблениеБонусов" id="52f815e0-1bc3-4b76-95ac-5cd2dc4352bc" configVersion="a9f5b5a2289cea47b73de4d6ce05c99700000000">
+			<Metadata name="Document.ПотреблениеБонусов.Attribute.Бонус" id="1720da19-ff8a-45ea-b836-312262d590aa"/>
+			<Metadata name="Document.ПотреблениеБонусов.Attribute.Стоимость" id="3a12301b-1c51-4315-b42f-98ea76ca6d61"/>
+			<Metadata name="Document.ПотреблениеБонусов.Attribute.Сотрудник" id="4791f95e-7d6d-4cd7-97c2-ef8d68db8e28"/>
+		</Metadata>
+		<Metadata name="Document.ПотреблениеБонусов.ObjectModule" id="52f815e0-1bc3-4b76-95ac-5cd2dc4352bc.0" configVersion="d4963ad90bbefc4faed0bbff22a64d3f00000000"/>
+		<Metadata name="Enum.СтатусБонусаСотрудника" id="a79e485e-6919-4709-b952-92a317a8e40e" configVersion="8d5af57ec51faf4f8168c35c4947d2fa00000000">
+			<Metadata name="Enum.СтатусБонусаСотрудника.EnumValue.НеИспользован" id="28740298-e156-4126-82f4-ae141baf4b55"/>
+			<Metadata name="Enum.СтатусБонусаСотрудника.EnumValue.Использован" id="96f48367-81a8-492e-9f7b-805ced114010"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусНазначаемогоБонуса" id="36576d94-6b3d-49af-9338-a51f3cdfc6db" configVersion="b7d9f2738292c540b651e844e3a533a500000000">
+			<Metadata name="Enum.СтатусНазначаемогоБонуса.EnumValue.Завершен" id="22e6cf1c-9459-4032-a2b9-c6f2a2030b00"/>
+			<Metadata name="Enum.СтатусНазначаемогоБонуса.EnumValue.Назначен" id="3226edb5-7406-44ba-a4f3-e8fe28ef1603"/>
+		</Metadata>
+		<Metadata name="InformationRegister.НазначенныйБонусСотруднику" id="df2389ed-4500-4633-9447-268162db8169" configVersion="ec04cd969cf29d41ad283f640c495d1400000000">
+			<Metadata name="InformationRegister.НазначенныйБонусСотруднику.Dimension.Бонусы" id="20e1375f-2947-437d-98d5-b53be2fcc094"/>
+			<Metadata name="InformationRegister.НазначенныйБонусСотруднику.Resource.СтатусБонусов" id="377493f4-6217-4b22-b8a2-1a0844594090"/>
+			<Metadata name="InformationRegister.НазначенныйБонусСотруднику.Dimension.Сотрудник" id="e496d7c1-357b-4c55-bce2-c51b8fb6efc5"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПотребленныеБонусыСотрудника" id="5bd42b99-7fc1-46d5-8d4b-544e9ea37b13" configVersion="98c8e3103fdf4148847804d56ab2887a00000000">
+			<Metadata name="InformationRegister.ПотребленныеБонусыСотрудника.Dimension.Сотрудник" id="1bf6ee41-0560-4350-9983-a383b04b1b27"/>
+			<Metadata name="InformationRegister.ПотребленныеБонусыСотрудника.Dimension.НазначенныйБонус" id="2a99872f-20e2-48b6-bb68-a4629d61c708"/>
+			<Metadata name="InformationRegister.ПотребленныеБонусыСотрудника.Resource.СтатусБонуса" id="2d8735ae-79bb-4a01-9d3b-270d4590b6ac"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="98a53a66-9f71-4494-83c2-76555c3caca4" configVersion="c745bc24c3d6ff48809c3a1eef15c3c200000000"/>
+		<Metadata name="Report.ОтчетПоНазначеннымБонусам" id="1578ea1c-e442-45e0-9e64-7a43c0d4fae2" configVersion="d988239f0c074d4b94c4a201426521af00000000"/>
+		<Metadata name="Report.ОтчетПоНазначеннымБонусам.Template.ОсновнаяСхемаКомпоновкиДанных" id="5940a9f0-47fd-4f1d-a183-ac6e30661327" configVersion="078ac76dc2657a459fbe3906d60ad53000000000"/>
+		<Metadata name="Report.ОтчетПоНазначеннымБонусам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5940a9f0-47fd-4f1d-a183-ac6e30661327.0" configVersion="091c473bd5444248bc7bc108766f0c2500000000"/>
+		<Metadata name="Report.ОтчетПоОстаткамБалловСотрудников" id="e1101c4e-73a9-4cfe-ae15-ae421a059cd0" configVersion="0f0ffc1fa5e40f4199e7e3d8e14c4e3700000000"/>
+		<Metadata name="Report.ОтчетПоОстаткамБалловСотрудников.Template.ОсновнаяСхемаКомпоновкиДанных" id="ba4c8af0-b57f-4ea0-b425-e1392e29ddb9" configVersion="bc25667e7ac1b740a7338641bb72394300000000"/>
+		<Metadata name="Report.ОтчетПоОстаткамБалловСотрудников.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="ba4c8af0-b57f-4ea0-b425-e1392e29ddb9.0" configVersion="33c394d1b1c43644bf95745f9da7e72c00000000"/>
+		<Metadata name="Role.ДобавлениеБонусов" id="a746a010-850b-435e-9ae3-3bac2cf300e4" configVersion="2b0949b38f814d46b84b27a318947d8f00000000"/>
+		<Metadata name="Role.ДобавлениеБонусов.Rights" id="a746a010-850b-435e-9ae3-3bac2cf300e4.0" configVersion="a47f5989fd553e42a1f4e473e949226d00000000"/>
+		<Metadata name="Role.ДобавлениеСотрудниковПредприятия" id="4b4e9487-f550-43a3-b19d-ae36b88307ff" configVersion="18965f1c6560b14897775e62f40d55e800000000"/>
+		<Metadata name="Role.ДобавлениеСотрудниковПредприятия.Rights" id="4b4e9487-f550-43a3-b19d-ae36b88307ff.0" configVersion="b0d6dddb04c5374c81c5bab2c825992500000000"/>
+		<Metadata name="Role.СотрудникПредприятия" id="fb848f7b-0a14-48af-b830-eefb854558a2" configVersion="634c26614ae2b04fb84c0c2a7087ee6b00000000"/>
+		<Metadata name="Role.СотрудникПредприятия.Rights" id="fb848f7b-0a14-48af-b830-eefb854558a2.0" configVersion="f27bda5520bd3a47a8ff2fd534bf589300000000"/>
+		<Metadata name="Role.УправляющийБонусами" id="9ba08237-f0d7-49e1-a68a-7dd9ab08a1bb" configVersion="9219478c70ffe14ab1f4a68925f9604200000000"/>
+		<Metadata name="Role.УправляющийБонусами.Rights" id="9ba08237-f0d7-49e1-a68a-7dd9ab08a1bb.0" configVersion="50af28b0333b2849ab4b6cda24f82e4800000000"/>
+		<Metadata name="Role.ЧтениеБонусов" id="3a2fe006-889d-4cd8-872f-6aee2f34db36" configVersion="86d2aa89ced62645b5ccc4e562767fc700000000"/>
+		<Metadata name="Role.ЧтениеБонусов.Rights" id="3a2fe006-889d-4cd8-872f-6aee2f34db36.0" configVersion="6c5159388396714fa1c3ab75283e3cb500000000"/>
+		<Metadata name="Role.ЧтениеСотрудниковПредприятия" id="de5361cc-22ae-420c-9e54-93d667eb8f67" configVersion="4fd70d6be4661c4fb03eb1a928193f0c00000000"/>
+		<Metadata name="Role.ЧтениеСотрудниковПредприятия.Rights" id="de5361cc-22ae-420c-9e54-93d667eb8f67.0" configVersion="ca4f730f494b9e48be237d79aeb4233500000000"/>
+		<Metadata name="SessionParameter.ТекущийПользователь" id="e8e761e8-ffc1-4fe5-9a28-7ec9163e2f99" configVersion="2304cc393fa45c46b210e6502e5ac50500000000"/>
+		<Metadata name="Style.Стиль1" id="46f5527b-3926-48c9-a08f-54fe76b0ea9a" configVersion="d8edad6640fa384a8895361dfdae6c6600000000"/>
+		<Metadata name="Subsystem.Бонусы" id="df6c2ac3-274f-46e5-ba67-633c4aec8772" configVersion="7120517ac29a8a4bb97f8856565a73e100000000"/>
+		<Metadata name="Subsystem.Бонусы.CommandInterface" id="df6c2ac3-274f-46e5-ba67-633c4aec8772.1" configVersion="5fcc20d57455834facaf35a683a9907c00000000"/>
+		<Metadata name="Subsystem.ЛичныйКабинет" id="26ccff73-a4e7-4db5-8a7c-ca59abad5098" configVersion="ac810a801acc924e8196c50b8bb5755200000000"/>
+		<Metadata name="Subsystem.Предприятие" id="6042d7b1-cce7-4e32-a5c4-9aa5fe9e49fa" configVersion="f39d812493828e44b94e4b285a0a8b7400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
